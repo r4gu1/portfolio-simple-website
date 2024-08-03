@@ -1,0 +1,65 @@
+.one{
+    display: block;
+    background-color: black;
+    color: white;
+    font-size: x-large ;
+    padding-left: 40px;
+    padding-bottom: 15px;
+}
+.two{
+    padding-left: 40px;
+}
+.five{
+    background-color: black;
+    padding-left: 20px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    color: white;
+}
+.three{
+    vertical-align: top;
+    background-color: blue;
+    display: inline-block;
+    border-radius: 15px;
+    font-size: larger;
+    width: 250px;
+    padding-left:20px;
+    height: 280px;
+    margin-left: 40px;
+    
+}
+.four{
+ 
+    width:800px ;
+    background-color: orange;
+    display: inline-block;
+    border-radius: 15px;
+    font-size: larger;
+    padding-left: 20px;
+    height: 280px;
+}
+.h1{
+    font-size: xx-large;
+    color: brown;
+}
+.contactform{
+    padding: 10px;
+
+}
+.contactform__input,.contactform__submit,.contactform__textarea{
+    border: none;
+}
+.contactform__input{
+    border-bottom:solid black 1px;
+}
+.contactform__textarea{
+    
+    border-top:solid black 2px;
+    border-bottom:solid black  2px;
+    border-left:solid  black 2px;
+    border-right:solid black 2px;
+
+}
+.contactform__submit{
+    background-color: orange;
+}
